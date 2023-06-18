@@ -6,6 +6,7 @@ type Hijo struct{
 	Nombre string
 	Genero string
 	añoNacimiento int
+	signoZodiaco string
 }
 
 func main(){
